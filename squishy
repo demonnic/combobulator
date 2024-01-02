@@ -1,0 +1,5 @@
+Option 'no-minify' 'true'
+Output 'build/combobulator.lua'
+Main 'main.lua'
+Module 'schema' 'src/schema.lua'
+Module 'spinbox' 'src/spinbox.lua'

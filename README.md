@@ -17,7 +17,7 @@ It turns a table describing your configuration items into a schema using luasche
 
 Because the bigger the package and the more it does, the more things there are likely to be to configure. Which means more time spent making aliases for them. Most packages never even bother with a configuration UI because it's so much work to make one at all. And the amount of validation being done is spotty at best in my experience. It is my hope that if you can just feed a description to the combobulator and let it do the work for you, more packages will come with a robust and complete configuration system.
 
-## No, no... I mean like, what call it the combobulator?
+## No, no... I mean like, why call it the combobulator?
 
 Oh... because my first kid was super into Phineas and Ferb and I've largely adopted the Doofenschmirtz naming convention. Plus I feel like the word combobulate should see more use.
 

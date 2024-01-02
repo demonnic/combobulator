@@ -1,4 +1,5 @@
 # combobulator
+
 Full service configuration management and validation for Mudlet packages
 
 ## What is the combobulator?
@@ -23,7 +24,7 @@ Oh... because my first kid was super into Phineas and Ferb and I've largely adop
 
 ## Tools in use
 
-This project is making use of a few tools to try and make things a little easier. 
+This project is making use of a few tools to try and make things a little easier.
 
 * [lua-schema](https://github.com/sschoener/lua-schema)
   * for validating the configuration items themselves

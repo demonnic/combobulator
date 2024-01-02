@@ -25,7 +25,7 @@ Oh... because my first kid was super into Phineas and Ferb and I've largely adop
 
 This project is making use of a few tools to try and make things a little easier. 
 
-1. [lua-schema](https://github.com/sschoener/lua-schema)
+* [lua-schema](https://github.com/sschoener/lua-schema)
   * for validating the configuration items themselves
-1. [squish](https://github.com/LuaDist/squish)
+* [squish](https://github.com/LuaDist/squish)
   * for turning it all into a single lua file for ease of requiring
